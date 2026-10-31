@@ -1,0 +1,4 @@
+bismillah
+ssdeğişken bip1 = ssbip(5000, 10000, "sine", 1);
+ssdeğişken bip1 = ssbip(4000, 12000, "square", 0.8);
+elhamdülillah
